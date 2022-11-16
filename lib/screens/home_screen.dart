@@ -96,6 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           width: 8.0,
                           height: 8.0,
                           decoration: BoxDecoration(
+                            color:  index == _selectedPage ? Colors.transparent : const Color(0xff686968),
                             borderRadius:
                                 const BorderRadius.all(Radius.circular(2.0)),
                             border: Border.all(
