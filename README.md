@@ -1,16 +1,16 @@
 # flutter_ui
 
-A new Flutter project.
+I have completed this ui testand here are the sample video and screenshots:
 
-## Getting Started
+I have not used any external package and used PageView to create this carousal.
 
-This project is a starting point for a Flutter application.
+## Video:
+https://user-images.githubusercontent.com/6002066/202149117-5c42727f-b842-4e02-96dd-0d3180c25858.mp4
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 15 25 52](https://user-images.githubusercontent.com/6002066/202149580-3fc41c38-8f21-4f69-85ee-f7b8b480b9bc.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 15 25 55](https://user-images.githubusercontent.com/6002066/202149593-182930f7-8c57-4c92-b836-3972d8ff20de.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 15 25 58](https://user-images.githubusercontent.com/6002066/202149601-4ae166ed-25a5-441d-b69e-11865645bbd9.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 15 25 49](https://user-images.githubusercontent.com/6002066/202149549-cb1620c9-ee02-4b4a-8bc2-ba3b35d477fa.png)
